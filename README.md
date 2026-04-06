@@ -83,7 +83,6 @@ common:
       access_ttl: 15m
       refresh_ttl: 720h
 
-## Run Locally
 ```
 
 ### How to run
